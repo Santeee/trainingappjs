@@ -1,0 +1,23 @@
+{
+  "name": "fullstackapi",
+  "version": "1.0.0",
+  "description": "Backend en Mongo y Express",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./index.js"
+  },
+  "keywords": [
+    "Santiago",
+    "Aguilar"
+  ],
+  "author": "Santiago aguilar",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.8.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
